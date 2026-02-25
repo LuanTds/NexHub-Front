@@ -153,17 +153,6 @@ O `.exe` gerado estará em `bin/Release/net8.0-windows/publish/`. Veja os releas
 
 ---
 
-## 🤝 Como contribuir
-
-1. Pegue uma issue no board do Jira
-2. Crie uma branch: `git checkout -b feature/nome-da-tarefa`
-3. Faça o commit: `git commit -m "feat: descrição"`
-4. Abra um PR para a branch `develop`
-
-> Nenhuma tarefa tem responsável fixo — pegue a que quiser!
-
----
-
 ## 📄 Licença
 
 Este projeto está sob a licença **MIT**. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
